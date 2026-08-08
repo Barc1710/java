@@ -3,6 +3,10 @@ public class rebase {
     int edad = 23;
 
     void menor(){
-        System.out.println("hola");
+        System.out.println("hola "+ nombre);
+    }
+
+    void entrar(){
+        System.out.println("gaaaaaa");
     }
 }
