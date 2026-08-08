@@ -10,9 +10,4 @@ public class rebase {
         System.out.println("gaaaaaa");
     }
 
-    void entrar(){
-        if (nombre.equals("pedro")){
-            System.out.println("hola "+ nombre);
-        }
-    }
 }
