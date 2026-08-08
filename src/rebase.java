@@ -1,5 +1,5 @@
 public class rebase {
-    String nombre = "pedro";
+    String nombre;
     int edad = 23;
 
     void menor(){
@@ -9,4 +9,5 @@ public class rebase {
     void entrar(){
         System.out.println("gaaaaaa");
     }
+
 }
