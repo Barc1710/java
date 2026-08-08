@@ -1,6 +1,6 @@
 public class metodos {
     String nombre = "pepe";
-    int edad = 23;
+    int edad;
 
     void mayor(){
         if (edad>=18){
